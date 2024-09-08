@@ -3,7 +3,7 @@
 # Extention in Vscode you need 
  Auto Rename Tag,
  Auto Close Tag,
- Tailwind CSS IntelliSense 
+ Tailwind CSS IntelliSense press ctrl+spacebar to use extention 
  # Run this to dev with tailwind
  npx tailwindcss -i ./src/input.css -o ./src/output.css --watch
  # Webside i use to help me as well 
