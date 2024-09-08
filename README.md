@@ -9,6 +9,7 @@
  # Webside i use to help me as well 
  https://colorhunt.co/ <br>
  https://uicolors.app/ <br>
+ https://cdnjs.com/libraries/font-awesome <br>
  https://fontawesome.com/ <br>
  https://www.figma.com/ <br>
  https://tailwindcss.com/docs/ <br>
