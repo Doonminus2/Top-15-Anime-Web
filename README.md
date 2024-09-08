@@ -6,6 +6,12 @@
  Tailwind CSS IntelliSense 
  # Run this to dev with tailwind
  npx tailwindcss -i ./src/input.css -o ./src/output.css --watch
+ # Webside i use to help me as well 
+ https://colorhunt.co/ <br>
+ https://uicolors.app/ <br>
+ https://fontawesome.com/ <br>
+ https://www.figma.com/ <br>
+ https://tailwindcss.com/docs/ <br>
 #  Guide 
 to center div in tailwind 
 use class"content-center"
