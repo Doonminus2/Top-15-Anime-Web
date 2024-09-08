@@ -1,6 +1,6 @@
 # Top 15 Anime Web
  basic html and css with  tailwind
- #Extention in Vscode you need 
+# Extention in Vscode you need 
  Auto Rename Tag
  Auto Close Tag
  Tailwind CSS IntelliSense 
